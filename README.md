@@ -13,6 +13,6 @@ Install with UAS - https://github.com/Asianhood/AdultJavBus.bundle
 
 ### Filename Requirments
 FIle name must contains the ID for example
-* Some-name-SPRD-1234.mp4
-* SPRD-1234 Some-name.mp4
+* Some-name-JUC-981-C.mp4
+* JUC-981.mp4
 
